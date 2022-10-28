@@ -8,7 +8,7 @@
 
 ## 👁️‍🗨️ Preview
 
-Link para visualizar: [Ver Demo]()
+Link para visualizar: [Ver Demo](https://sandra-silva-santos.github.io/Jogo-da-Memoria/)
 
 ## 🛠️ **Tecnologias**
 
